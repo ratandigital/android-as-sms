@@ -1,0 +1,53 @@
+{
+  "systemParams": "win32-x64-83",
+  "modulesFolders": [
+    "components"
+  ],
+  "flags": [],
+  "linkedModules": [],
+  "topLevelPatterns": [
+    "bootstrap@^3.4.1",
+    "code-prettify@^0.1.0",
+    "datatables.net-responsive-bs@^2.2.3",
+    "dropzone@^5.5.1",
+    "fastclick@^1.0.6",
+    "flatpickr@^4.6.6",
+    "font-awesome@^4.7.0",
+    "he@^1.2.0",
+    "ionicons@^4.5.5",
+    "jquery-validation@^1.19.0",
+    "jquery@^3.3.1",
+    "pace-js@^1.0.2",
+    "pusher-js@^7.0.3",
+    "select2@^4.0.5",
+    "toastr@^2.1.4",
+    "trumbowyg@^2.21.0"
+  ],
+  "lockfileEntries": {
+    "bootstrap@^3.4.1": "https://registry.yarnpkg.com/bootstrap/-/bootstrap-3.4.1.tgz#c3a347d419e289ad11f4033e3c4132b87c081d72",
+    "code-prettify@^0.1.0": "https://registry.yarnpkg.com/code-prettify/-/code-prettify-0.1.0.tgz#46870cc8c1a50d09bad539b33a983dbd4aa34b1e",
+    "datatables.net-bs@^1.10.15": "https://registry.yarnpkg.com/datatables.net-bs/-/datatables.net-bs-1.10.21.tgz#c80e655033787512423ad78a45e8164f25417dc5",
+    "datatables.net-responsive-bs@^2.2.3": "https://registry.yarnpkg.com/datatables.net-responsive-bs/-/datatables.net-responsive-bs-2.2.5.tgz#4f8f4a200b19dd0b434bf6302491c4905d4d3c39",
+    "datatables.net-responsive@2.2.5": "https://registry.yarnpkg.com/datatables.net-responsive/-/datatables.net-responsive-2.2.5.tgz#33a11ec59b416a546a213b3b736e1ff8ad1fa5eb",
+    "datatables.net@1.10.21": "https://registry.yarnpkg.com/datatables.net/-/datatables.net-1.10.21.tgz#f1d35c8e5c3eb7f5caef39e80cd5b836a8c77103",
+    "datatables.net@^1.10.15": "https://registry.yarnpkg.com/datatables.net/-/datatables.net-1.10.21.tgz#f1d35c8e5c3eb7f5caef39e80cd5b836a8c77103",
+    "dropzone@^5.5.1": "https://registry.yarnpkg.com/dropzone/-/dropzone-5.7.1.tgz#8e41a85879ff145562e8fcce39c6ff619dce81be",
+    "fastclick@^1.0.6": "https://registry.yarnpkg.com/fastclick/-/fastclick-1.0.6.tgz#161625b27b1a5806405936bda9a2c1926d06be6a",
+    "flatpickr@^4.6.6": "https://registry.yarnpkg.com/flatpickr/-/flatpickr-4.6.6.tgz#34d2ad80adfa34254e62583a34264d472f1038d6",
+    "font-awesome@^4.7.0": "https://registry.yarnpkg.com/font-awesome/-/font-awesome-4.7.0.tgz#8fa8cf0411a1a31afd07b06d2902bb9fc815a133",
+    "he@^1.2.0": "https://registry.yarnpkg.com/he/-/he-1.2.0.tgz#84ae65fa7eafb165fddb61566ae14baf05664f0f",
+    "ionicons@^4.5.5": "https://registry.yarnpkg.com/ionicons/-/ionicons-4.6.3.tgz#e4f3a3e9b66761eb8c0db27798cc1a8ce97777d2",
+    "jquery-validation@^1.19.0": "https://registry.yarnpkg.com/jquery-validation/-/jquery-validation-1.19.2.tgz#c602831b0d8c5881400af424e872757ce241eff9",
+    "jquery@>=1.12.0": "https://registry.yarnpkg.com/jquery/-/jquery-3.5.1.tgz#d7b4d08e1bfdb86ad2f1a3d039ea17304717abb5",
+    "jquery@>=1.7": "https://registry.yarnpkg.com/jquery/-/jquery-3.5.1.tgz#d7b4d08e1bfdb86ad2f1a3d039ea17304717abb5",
+    "jquery@^3.3.1": "https://registry.yarnpkg.com/jquery/-/jquery-3.5.1.tgz#d7b4d08e1bfdb86ad2f1a3d039ea17304717abb5",
+    "pace-js@^1.0.2": "https://registry.yarnpkg.com/pace-js/-/pace-js-1.0.2.tgz#673a717f833ccb4f4315531b75ee4788376600f7",
+    "pusher-js@^7.0.3": "https://registry.yarnpkg.com/pusher-js/-/pusher-js-7.0.3.tgz#f81c78cdf2ad32f546caa7532ec7f9081ef00b8d",
+    "select2@^4.0.5": "https://registry.yarnpkg.com/select2/-/select2-4.0.13.tgz#0dbe377df3f96167c4c1626033e924372d8ef44d",
+    "toastr@^2.1.4": "https://registry.yarnpkg.com/toastr/-/toastr-2.1.4.tgz#8b43be64fb9d0c414871446f2db8e8ca4e95f181",
+    "trumbowyg@^2.21.0": "https://registry.yarnpkg.com/trumbowyg/-/trumbowyg-2.21.0.tgz#ca133bb960d3302d362ca73358e268d3830c74cc",
+    "tweetnacl@^1.0.3": "https://registry.yarnpkg.com/tweetnacl/-/tweetnacl-1.0.3.tgz#ac0af71680458d8a6378d0d0d050ab1407d35596"
+  },
+  "files": [],
+  "artifacts": {}
+}
